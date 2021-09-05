@@ -1,5 +1,5 @@
 
-## Example Data for STAT 447 
+## (Sandbox Copy of) Example Data for STAT 447 
 
 This repository contains a number of (public) datasets taken from other R packages for purposes of
 teaching data manipulation steps in the _Data Science Programming Methods_ course.
